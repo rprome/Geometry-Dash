@@ -42,7 +42,7 @@ The game is implemented using a single main class `GeoDash` and several helper c
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/geometry-dash-clone.git
+   git clone https://github.com/rprome/geometry-dash-clone.git
    ```
 2. Open the project in your preferred IDE (e.g., Eclipse or Visual Studio Code).
 3. Ensure all required assets (images, sounds) are in the correct directories.
