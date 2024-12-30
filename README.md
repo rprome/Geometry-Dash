@@ -70,10 +70,10 @@ The game is implemented using a single main class `GeoDash` and several helper c
 - Converted text messages into images to ensure consistent formatting.
 
 ## Contributors
-- **Caitlin O’Leyar**: Start menu, replay function, sound effects.
-- **Aadiva Rajbhandary**: Tall obstacles, double-jump stars.
-- **Rizouana Prome**: Spikes, double-jump stars, platforms.
-
+- **Caitlin O’Leyar**
+- **Aadiva Rajbhandary**
+- **Rizouana Prome**
+  
 ## Citations
 - [Game Backgrounds](https://www.gamedevmarket.net/asset/lake-background)
 - [Player Sprites](https://gdbrowser.com/iconkit/)
